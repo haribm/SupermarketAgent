@@ -1,0 +1,5 @@
+Grocery plan for demo-user
+Single store: Netto
+Total: 28.56 DKK (budget 300.00 DKK)
+
+- organic eggs: 28.56 DKK at Netto (estimated)
